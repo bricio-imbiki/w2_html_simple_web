@@ -98,7 +98,7 @@ It should look like this:
 
 👉 Use `href="https://www.healthline.com/nutrition/healthy-fruit` for the link<br>
 👉 Use `./asset/fruit.jpg` for the image.<br>
-👉 Use `<b>`, or `<strong>` for bolding texts, and  `<em>` and `i` for italic texts
+👉 Use `<b>`, or `<strong>` for bolding texts, `<em>` and `i` for italic texts and `<u>` for underlined texts
 
 ### 3. Fruits list section
 In this section you should have: 
